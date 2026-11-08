@@ -1,3 +1,4 @@
 # beagents-runtime
 
-<img width="2752" height="1536" alt="be-agents-runtime-logo" src="https://github.com/user-attachments/assets/37ac6041-e403-4725-856f-c2295c3a5c6b" />
+<img width="2752" height="1536" alt="be-agent-runtime-logo" src="https://github.com/user-attachments/assets/2f9372d0-9b3e-4e97-afde-e05e143cc034" />
+
